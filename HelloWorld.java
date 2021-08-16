@@ -3,9 +3,12 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class HelloWorld {
+package 
+public class HelloWorld 
+{
     
-    public static void main(String args[]) {
+    public static void main(final String args[]) 
+    {
         
     }
     
