@@ -1,13 +1,13 @@
 #BlueJ package file
-dependency1.from=TestHelloWorld
+dependency1.from=HelloWorldTest
 dependency1.to=HelloWorld
 dependency1.type=UsesDependency
 editor.fx.0.height=715
 editor.fx.0.width=800
-editor.fx.0.x=1051
-editor.fx.0.y=240
+editor.fx.0.x=546
+editor.fx.0.y=219
 objectbench.height=149
-objectbench.width=776
+objectbench.width=461
 package.divider.horizontal=0.6
 package.divider.vertical=0.691089108910891
 package.editor.height=342
@@ -27,7 +27,7 @@ readme.width=49
 readme.x=10
 readme.y=10
 target1.height=70
-target1.name=TestHelloWorld
+target1.name=HelloWorldTest
 target1.showInterface=false
 target1.type=UnitTestTargetJunit5
 target1.width=130

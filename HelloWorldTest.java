@@ -10,17 +10,17 @@ import org.junit.jupiter.params.provider.CsvSource;
 import java.io.*;
 
 /**
- * The test class TestHelloWorld.
+ * The test class HelloWorldTest.
  *
  * @author  (your name)
  * @version (a version number or a date)
  */
-public class TestHelloWorld
+public class HelloWorldTest
 {
     /**
-     * Default constructor for test class TestHelloWorld
+     * Default constructor for test class HelloWorldTest
      */
-    public TestHelloWorld()
+    public HelloWorldTest()
     {
     }
 
@@ -45,7 +45,7 @@ public class TestHelloWorld
     }
     
     @Test
-    public void testHelloWorld() 
+    public void helloWorldTest() 
     {
         PrintStream originalOut = System.out;
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
